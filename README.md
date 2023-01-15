@@ -1,8 +1,8 @@
-## Oiii eu sou o João Pedro Augusto!
+## Eu sou a vivi
 <div align="center">
-  <a href="https://github.com/Jpedroaugusto">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jpedroaugusto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedroaugusto&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/SousVitoria">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SousVitoria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SousVitoria&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   - <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,8 +14,7 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCzmwEwgcEuWs9BgpUMOZvMQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/a.deriiva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pedroaugusto131204@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/_vitoriakkkkj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vitorianascimentosousa20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
